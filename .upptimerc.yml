@@ -1,30 +1,51 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: aparrot89 # Your GitHub organization or username, where this repository lives
+repo: interhop-status # The name of this repository
+
+assignees:
+  - parisni
+  - Koromix
+  - BorisDelange
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: InterHop (Website)
+    url: https://interhop.org
+  - name: Toobib (Website)
+    url: https://toobib.org
+  - name: Element
+    url: https://element.interhop.org
+  - name: Vaultwarden
+    url: https://password.interhop.org
+  - name: Goupile
+    url: https://goupile.org
+  - name: Goupile HDS
+    url: https://goupile.hds.interhop.org
+  - name: Linkr
+    url: https://linkr.interhop.org
+  - name: Cryptpad
+    url: https://cpad.interhop.org
+  - name: Cryptpad HDS
+    url: https://cryptpad.hds.interhop.org
+  - name: HedgeDoc
+    url: https://pad.interhop.org
+  - name: Peertube
+    url: https://peertube.interhop.org
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.interhop.org
+  theme: ocean
+  # baseUrl: /interhop-status
+  logoUrl: https://interhop.org/images/interhop_logo_white.png
+  name: InterHop
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Git
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
