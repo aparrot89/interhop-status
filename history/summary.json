@@ -115,19 +115,19 @@
     "url": "https://linkr.interhop.org",
     "icon": "https://icons.duckduckgo.com/ip3/linkr.interhop.org.ico",
     "slug": "linkr",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 1015,
-    "timeDay": 897,
-    "timeWeek": 994,
-    "timeMonth": 1015,
-    "timeYear": 1015,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1036,
+    "timeDay": 994,
+    "timeWeek": 1038,
+    "timeMonth": 1036,
+    "timeYear": 1036,
     "dailyMinutesDown": {
-      "2023-11-19": 28
+      "2023-11-19": 40
     }
   },
   {
