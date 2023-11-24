@@ -4,9 +4,9 @@
     "url": "https://interhop.org",
     "icon": "https://icons.duckduckgo.com/ip3/interhop.org.ico",
     "slug": "inter-hop-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 796,
     "timeMonth": 799,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-24": 0
+    }
   },
   {
     "name": "Toobib (Website)",
@@ -95,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/goupile.hds.interhop.org.ico",
     "slug": "goupile-hds",
     "status": "up",
-    "uptime": "95.27%",
+    "uptime": "95.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.68%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "95.27%",
+    "uptimeWeek": "94.33%",
+    "uptimeMonth": "95.31%",
+    "uptimeYear": "95.31%",
     "time": 577,
     "timeDay": 504,
     "timeWeek": 558,
