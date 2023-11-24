@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/interhop.org.ico",
     "slug": "inter-hop-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 803,
     "timeDay": 826,
     "timeWeek": 812,
     "timeMonth": 803,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2023-11-24": 0
+      "2023-11-24": 6
     }
   },
   {
@@ -99,7 +99,7 @@
     "status": "up",
     "uptime": "95.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.32%",
+    "uptimeWeek": "95.38%",
     "uptimeMonth": "95.32%",
     "uptimeYear": "95.32%",
     "time": 577,
