@@ -76,9 +76,9 @@
     "url": "https://goupile.org",
     "icon": "https://icons.duckduckgo.com/ip3/goupile.org.ico",
     "slug": "goupile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 687,
     "timeMonth": 672,
     "timeYear": 672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-27": 0
+    }
   },
   {
     "name": "Goupile HDS",
@@ -95,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/goupile.hds.interhop.org.ico",
     "slug": "goupile-hds",
     "status": "up",
-    "uptime": "95.85%",
+    "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.85%",
-    "uptimeYear": "95.85%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "95.91%",
     "time": 583,
     "timeDay": 728,
     "timeWeek": 616,
