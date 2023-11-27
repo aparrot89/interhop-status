@@ -76,19 +76,19 @@
     "url": "https://goupile.org",
     "icon": "https://icons.duckduckgo.com/ip3/goupile.org.ico",
     "slug": "goupile",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 844,
-    "timeWeek": 687,
-    "timeMonth": 672,
-    "timeYear": 672,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 669,
+    "timeDay": 713,
+    "timeWeek": 674,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {
-      "2023-11-27": 0
+      "2023-11-27": 6
     }
   },
   {
