@@ -4,19 +4,19 @@
     "url": "https://interhop.org",
     "icon": "https://icons.duckduckgo.com/ip3/interhop.org.ico",
     "slug": "inter-hop-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 972,
-    "timeWeek": 754,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 783,
+    "timeDay": 895,
+    "timeWeek": 761,
     "timeMonth": 790,
-    "timeYear": 782,
+    "timeYear": 783,
     "dailyMinutesDown": {
-      "2023-12-08": 0
+      "2023-12-08": 16
     }
   },
   {
