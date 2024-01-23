@@ -99,19 +99,19 @@
     "url": "https://goupile.hds.interhop.org",
     "icon": "https://icons.duckduckgo.com/ip3/goupile.hds.interhop.org.ico",
     "slug": "goupile-hds",
-    "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.76%",
+    "status": "down",
+    "uptime": "98.77%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.77%",
     "time": 563,
     "timeDay": 561,
     "timeWeek": 532,
     "timeMonth": 572,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2024-01-23": 6,
+      "2024-01-23": 0,
       "2023-11-17": 882,
       "2023-11-16": 576
     }
@@ -165,18 +165,16 @@
     "slug": "cryptpad-hds",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 680,
     "timeDay": 4682,
     "timeWeek": 1958,
     "timeMonth": 949,
     "timeYear": 680,
-    "dailyMinutesDown": {
-      "2024-01-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HedgeDoc",
