@@ -1,7 +1,7 @@
 url: https://cryptpad.hds.interhop.org
-status: up
-code: 200
-responseTime: 424
-lastUpdated: 2024-01-22T23:13:50.612Z
+status: down
+code: 502
+responseTime: 13202
+lastUpdated: 2024-01-23T20:52:30.015Z
 startTime: 2023-11-02T15:33:41.758Z
 generator: Upptime <https://github.com/upptime/upptime>
