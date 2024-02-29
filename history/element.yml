@@ -1,7 +1,7 @@
 url: https://element.interhop.org
-status: down
-code: 502
+status: up
+code: 200
 responseTime: 361
-lastUpdated: 2024-02-29T16:28:39.163Z
+lastUpdated: 2024-02-29T20:45:02.617Z
 startTime: 2023-11-02T15:33:35.164Z
 generator: Upptime <https://github.com/upptime/upptime>
