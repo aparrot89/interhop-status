@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/element.interhop.org.ico",
     "slug": "element",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "82.56%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.85%",
     "time": 617,
     "timeDay": 502,
     "timeWeek": 575,
     "timeMonth": 591,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 251
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://password.interhop.org",
     "icon": "https://icons.duckduckgo.com/ip3/password.interhop.org.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 572,
-    "timeWeek": 536,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "82.58%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.85%",
+    "time": 605,
+    "timeDay": 576,
+    "timeWeek": 541,
     "timeMonth": 568,
-    "timeYear": 606,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 251
     }
   },
   {
@@ -154,18 +154,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cpad.interhop.org.ico",
     "slug": "cryptpad",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.85%",
     "time": 573,
     "timeDay": 629,
     "timeWeek": 575,
     "timeMonth": 595,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 251
     }
   },
   {
@@ -195,18 +195,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pad.interhop.org.ico",
     "slug": "hedge-doc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.85%",
     "time": 671,
     "timeDay": 654,
     "timeWeek": 646,
     "timeMonth": 647,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 251
     }
   },
   {
@@ -215,18 +215,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/peertube.interhop.org.ico",
     "slug": "peertube",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.85%",
     "time": 653,
     "timeDay": 580,
     "timeWeek": 569,
     "timeMonth": 615,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 251
     }
   }
 ]
