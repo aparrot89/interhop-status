@@ -1,7 +1,7 @@
 url: https://peertube.interhop.org
-status: down
-code: 502
-responseTime: 453
-lastUpdated: 2024-03-23T14:18:34.394Z
+status: up
+code: 200
+responseTime: 458
+lastUpdated: 2024-03-23T14:25:31.143Z
 startTime: 2023-11-02T15:33:43.765Z
 generator: Upptime <https://github.com/upptime/upptime>
