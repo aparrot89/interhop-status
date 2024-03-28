@@ -1,7 +1,7 @@
 url: https://pad.interhop.org
-status: down
-code: 502
+status: up
+code: 200
 responseTime: 705
-lastUpdated: 2024-03-28T21:49:32.241Z
+lastUpdated: 2024-03-28T21:55:23.636Z
 startTime: 2023-11-02T15:33:42.654Z
 generator: Upptime <https://github.com/upptime/upptime>
