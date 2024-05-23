@@ -59,10 +59,10 @@
     "url": "https://element.interhop.org",
     "icon": "https://icons.duckduckgo.com/ip3/element.interhop.org.ico",
     "slug": "element",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.88%",
     "time": 607,
@@ -71,6 +71,7 @@
     "timeMonth": 571,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2024-05-23": 1,
       "2024-04-27": 83,
       "2024-03-22": 22,
       "2024-02-29": 256
@@ -81,10 +82,10 @@
     "url": "https://password.interhop.org",
     "icon": "https://icons.duckduckgo.com/ip3/password.interhop.org.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.88%",
     "time": 597,
@@ -93,6 +94,7 @@
     "timeMonth": 585,
     "timeYear": 597,
     "dailyMinutesDown": {
+      "2024-05-23": 1,
       "2024-04-27": 82,
       "2024-03-22": 22,
       "2024-02-29": 251
