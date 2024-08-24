@@ -40,9 +40,9 @@
     "url": "https://toobib.org",
     "icon": "https://icons.duckduckgo.com/ip3/toobib.org.ico",
     "slug": "toobib-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -52,6 +52,7 @@
     "timeMonth": 714,
     "timeYear": 754,
     "dailyMinutesDown": {
+      "2024-08-24": 0,
       "2024-05-01": 19,
       "2024-04-29": 124
     }
